@@ -1,11 +1,10 @@
 
-Meta Automatic Curriculum Learning
+Simple Toy environment for teacher algorithms
 ==================================
 
 
 ## Installation
-
-1- Unzip and install codebase with Python >= 3.6, using Conda for example 
+Git clone the repo and:
 ```
 cd simple-learner-simulation/
 conda create --name learnersim python=3.6
